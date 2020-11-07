@@ -46,7 +46,7 @@ header nav a:hover{
 /*filme em cartas (filme principal)*/
 .filme-principal{
     font-size: 16px;
-    background: url('C:\Users\james\OneDrive\Documentos\GitHub\clone_netflix\imgs\du38uJFaVfZJhlSyQyFE8G3vt4V.jpg');
+    background:('C:\Users\james\OneDrive\Documentos\GitHub\clone_netflix\imgs\du38uJFaVfZJhlSyQyFE8G3vt4V.jpg');
     height: 400px;
     background-size: cover;
 }
