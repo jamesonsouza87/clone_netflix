@@ -10,21 +10,28 @@
 
 body{
     background: var(--preta);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial', Times, serif;
+    color: var(--vermelho);
+}
+h3{
+    
+    color:white;
 }
 
-header.container{
-   display:flex;
-   flex-direction:row;
-   align-items:center;
-   justify-content: space-between;
+
+header .container{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
 }
 
 header.logo{
-    margin-left: 5px;
+    margin-left: 15px;
     color:var(--vermelho);
     font-family:'Arial black', times;
-    font-size:40px;
+    font-size:50px;
 }
 
 header nav a {
@@ -35,4 +42,9 @@ header nav a {
 
 header nav a:hover{
     color:#fff;
+}
+/*filme em cartas (filme principal)*/
+.filme-principal{
+    font-size: 16px;
+    background: url('..img/du38uJFaVfZJhlSyQyFE8G3vt4V.jpg');
 }
