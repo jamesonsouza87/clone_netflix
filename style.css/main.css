@@ -11,13 +11,8 @@
 body{
     background: var(--preta);
     font-family: 'Arial', Times, serif;
-    color: var(--vermelho);
+    color: white;
 }
-h3{
-    
-    color:white;
-}
-
 
 header .container{
     display:flex;
@@ -31,7 +26,7 @@ header.logo{
     margin-left: 15px;
     color:var(--vermelho);
     font-family:'Arial black', times;
-    font-size:50px;
+    font-size:40px;
 }
 
 header nav a {
