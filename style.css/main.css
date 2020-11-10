@@ -73,7 +73,7 @@ header nav a:hover{
     background-color:rgba(0,0,0,.50);
     border: none;
     color: white;
-    padding: 15px,30px;
+    padding:15px 30px;
     margin-right: 15px;
     font-size: 12px;
     cursor: pointer;
@@ -85,7 +85,7 @@ header nav a:hover{
     color:black;
 }
 
-.botao i{
+.botões i{
     margin-right: 8px;
 }
 
